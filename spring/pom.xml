@@ -40,7 +40,7 @@
         <version.arquillian.spring>1.0.0.Alpha1</version.arquillian.spring>
 
         <!-- Test related -->
-        <version.junit_junit>4.8.1</version.junit_junit>
+        <version.junit_junit>4.13.1</version.junit_junit>
         <version.testng_testng>6.5.2</version.testng_testng>
         <version.mockito_all>1.8.3</version.mockito_all>
 
